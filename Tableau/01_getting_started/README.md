@@ -13,5 +13,5 @@ First Tableau project: explored Airbnb data. Created a bar chart of average pric
 **Highlight Output(s):**  
 
 <img src="nyc_neighbourhood_prices.png" width="600">  
-<img src="room_type_segmentation.png" width="600">  
+<img src="Room_type_segmentation.png" width="600">  
 <img src="bringing_it_all_together.png" width="600">
