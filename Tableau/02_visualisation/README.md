@@ -15,5 +15,5 @@ This chapter explored core data analysis techniques in Tableau. I practised filt
 <img src="g7_comparison.png" width="600">  
 <img src="co2_gdp_scatter.png" width="600">  
 <img src="gender_ratio.png" width="600">  
-<img src="gender_average.png" width="600">
+
 
